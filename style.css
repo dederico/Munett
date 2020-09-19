@@ -1,0 +1,48 @@
+nav {
+  display: flex;
+  align-items: flex-start;
+}
+a {
+  display: flex;
+  justify-content: flex-start;
+}
+.navbar-brand {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+}
+main {
+  margin-top: 3%;
+  display: flex;
+}
+.left-section {
+  display: flex;
+  flex-direction: column;
+  width: 49%;
+  border-radius: 15px;
+  /* border: solid 1px; */
+}
+.right-section {
+  display: flex;
+  flex-direction: column;
+  width: 49%;
+  border-radius: 15px;
+  /* border: solid 1px; */
+  margin-left: 1%;
+}
+
+.card-body {
+  display: flex;
+  justify-content: center;
+}
+.card-banquero {
+  width: 541.89px;
+  height: 361.734px;
+}
+footer {
+  margin-top: 2%;
+}
