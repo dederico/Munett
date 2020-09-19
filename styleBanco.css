@@ -1,0 +1,30 @@
+nav {
+  display: flex;
+  align-items: flex-start;
+}
+a {
+  display: flex;
+  justify-content: flex-start;
+}
+.navbar-brand {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+}
+main {
+  margin-top: 5%;
+  display: flex;
+}
+.progress {
+  height: 24px;
+}
+.btn-xs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 24px;
+}
