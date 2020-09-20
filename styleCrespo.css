@@ -16,20 +16,20 @@ a {
   justify-content: flex-start;
 }
 main {
-  margin-top: 5%;
+  margin-top: 3%;
   display: flex;
+  justify-content: center;
 }
-.progress {
-  height: 24px;
+.jumbotron {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.btn-xs {
+.img-perfil {
+  height: 30% !important;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 24px;
-}
-.rango {
-  display: flex;
-  flex-wrap: wrap;
-  height: 8px;
+  width: 30%;
 }

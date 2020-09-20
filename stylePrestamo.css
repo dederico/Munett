@@ -15,6 +15,23 @@ a {
   display: flex;
   justify-content: flex-start;
 }
+nav {
+  display: flex;
+  align-items: flex-start;
+}
+a {
+  display: flex;
+  justify-content: flex-start;
+}
+.navbar-brand {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.navbar {
+  display: flex;
+  justify-content: flex-start;
+}
 main {
   margin-top: 5%;
   display: flex;
